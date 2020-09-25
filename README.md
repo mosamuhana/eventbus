@@ -14,5 +14,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 Inspired from:
-[event-bus](https://github.com/marcojakob/dart-event-bus)
-[event_hub](https://github.com/zhanghuanchong/event_hub)
+[event-bus](https://github.com/marcojakob/dart-event-bus) and [event_hub](https://github.com/zhanghuanchong/event_hub)
