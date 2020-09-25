@@ -3,7 +3,7 @@ version: 0.0.1
 
 author: Mousa Mhanna <mosamuhana@gmail.com>
 description: A Global Event Bus using Dart Streams
-repository: https://github.com/mosamuhana/global_event_bus
+repository: https://github.com/mosamuhana/eventbus
 homepage: https://github.com/mosamuhana
 
 environment:
