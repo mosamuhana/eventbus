@@ -1,0 +1,18 @@
+name: eventbus
+version: 0.0.1
+
+author: Mousa Mhanna <mosamuhana@gmail.com>
+description: A Global Event Bus using Dart Streams
+repository: https://github.com/mosamuhana/global_event_bus
+homepage: https://github.com/mosamuhana
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+
+dev_dependencies:
+  build_runner: ^1.10.3
+  build_web_compilers: ^2.12.1
+  build_test: ^1.2.2
+  logging: ^0.11.4
+  test: ^1.15.4
